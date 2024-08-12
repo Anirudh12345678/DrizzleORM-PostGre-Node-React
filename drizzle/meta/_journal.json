@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1722950184787,
+      "tag": "0000_orange_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1722960318329,
+      "tag": "0001_next_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722968609442,
+      "tag": "0002_typical_forge",
+      "breakpoints": true
+    }
+  ]
+}

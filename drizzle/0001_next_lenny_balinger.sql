@@ -1,0 +1,1 @@
+ALTER TABLE "articles" ALTER COLUMN "link" SET DATA TYPE char(200);
